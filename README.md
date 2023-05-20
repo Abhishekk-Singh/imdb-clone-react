@@ -1,3 +1,17 @@
+![Screenshot (45)](https://github.com/Abhishekk-Singh/imdb-clone-react/assets/130135134/0d2a256d-6bd3-4fec-bb34-417e373f3b43)
+
+
+
+![Screenshot (46)](https://github.com/Abhishekk-Singh/imdb-clone-react/assets/130135134/1175a3bd-c71b-4fb9-b1e5-495276507488)
+
+
+
+![Screenshot (47)](https://github.com/Abhishekk-Singh/imdb-clone-react/assets/130135134/955151d0-6b51-42b1-be32-d7d976fd7f73)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
